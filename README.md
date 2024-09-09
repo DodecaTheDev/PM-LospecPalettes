@@ -1,2 +1,3 @@
-# PM-LospecPalettes
-Fetches Palettes from the Lospec Palette API.
+# Lospec Palettes
+Fetches palettes using Lospec's Palette API.
+-# Supports TurboWarp and PenguinMod.
